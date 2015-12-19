@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Gabriel Di Fruscio",
+    "longName": "CounterStrike Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/pebblre.png",
+                "name": "IMAGE_TEST_PEBBLEFACE",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/1942.ttf",
+                "name": "FONT_REPORT_35",
+                "type": "font"
+            },
+            {
+                "file": "fonts/1942.ttf",
+                "name": "FONT_REPORT_40",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "CSFace",
+    "uuid": "798fae59-cdb6-432c-9460-e1fc54ea5ad5",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
